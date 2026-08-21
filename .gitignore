@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+*.sqlite3
+.env
+.venv/
+node_modules/
+dist/
+.dart_tool/
+build/
+.ipynb_checkpoints/
+.DS_Store
