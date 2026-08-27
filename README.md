@@ -1,4 +1,6 @@
 # 🏗️ Plataforma Inteligente | Almoxarifado & Gestão de Obras
+<img width="2816" height="1536" alt="Gemini_Generated_Image_tpgv35tpgv35tpgv" src="https://github.com/user-attachments/assets/2e08041b-1f57-4024-ba6c-27bfc58a59d5" />
+
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![Django REST Framework](https://img.shields.io/badge/DRF-3.15-red.svg)](https://www.django-rest-framework.org/)
